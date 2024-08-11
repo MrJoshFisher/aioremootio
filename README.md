@@ -1,5 +1,7 @@
 # aioremootio - An asynchronous API client library for Remootio
 
+## Read Manual - https://community.home-assistant.io/t/remootio-garage-door-automation-new-product/110559/109?u=mrjoshfisher
+
 _aioremootio_ is an asynchronous API client library for [Remootio](https://remootio.com/) written in Python 3 and 
 based on [asyncio](https://docs.python.org/3/library/asyncio.html) and [aiohttp](https://pypi.org/project/aiohttp/).
 
